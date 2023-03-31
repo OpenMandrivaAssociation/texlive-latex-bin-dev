@@ -1,6 +1,6 @@
 Name:		texlive-latex-bin-dev
 Version:	62387
-Release:	1
+Release:	2
 Summary:	LaTeX pre-release executables and formats
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-bin-dev
