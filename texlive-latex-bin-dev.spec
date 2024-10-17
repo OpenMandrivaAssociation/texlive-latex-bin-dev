@@ -3,7 +3,7 @@ Version:	62387
 Release:	2
 Summary:	LaTeX pre-release executables and formats
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-bin-dev
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latex-bin-dev
 License:	
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-bin-dev.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-bin-dev.doc.r%{version}.tar.xz
